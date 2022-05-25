@@ -19,7 +19,7 @@ Me pueden contactar de estas diferentes formas, ya sea para trabajo u cualquier 
 - Linkedin: [Danilo Franco Carrasco Mendoza](https://www.linkedin.com/in/danilo-franco-carrasco-mendoza/)
 
 ## Proyectos personales
-- [Torneo de Skate](https://torneo-skate-danilo.herokuapp.com/) - [Repositorio](https://github.com/DaniloCM/Torneo-skate)
+- [Torneo de Skate](https://torneo-skate-danilo.herokuapp.com/) - [Repositorio](https://github.com/DaniloCM/torneo-skate)
 
 
 
