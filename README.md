@@ -1,7 +1,7 @@
 # Hola, mi nombre es Danilo Carrasco
 ### Full-stack Javascript
 
-Soy Danilo, tengo 26 años, me gusta mucho aprender y crear cosas, y que más que el mundo de programación para poder hacerlas. En este momento estoy al 100% en el mundo del desarrollo web, aprendiendo y con ganas poder aplicar todo lo que sé.
+Soy Danilo, tengo 27 años, me gusta mucho aprender y crear cosas, y que más que el mundo de programación para poder hacerlas. En este momento estoy al 100% en el mundo del desarrollo web, aprendiendo y con ganas poder aplicar todo lo que sé.
 
 Soy de Chile, concretamente de la ciudad de Coronel, Octava Región. He vivido toda mi vida aquí, pero ya es hora de conocer otros lugares.
 
