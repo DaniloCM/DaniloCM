@@ -20,7 +20,9 @@ Me pueden contactar de estas diferentes formas, ya sea para trabajo u cualquier 
 
 ## Proyectos personales
 - [Tienda Online]
+    
     Frontend: (https://danilocm.github.io/tienda_online_frontend/) - [Repositorio](https://github.com/DaniloCM/tienda_online_frontend)
+    
     Backend: (https://api-tienda-online-danilo.herokuapp.com/) - [Repositorio](https://github.com/DaniloCM/tienda_online_backend)
 
 
